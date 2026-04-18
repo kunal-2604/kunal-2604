@@ -11,7 +11,6 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-chandak-2a532a26b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunalmchandak/)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-2604)
 [![Profile Views](https://komarev.com/ghpvc/?username=kunal-2604&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/kunal-2604)
 
 <br/>
