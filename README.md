@@ -31,14 +31,16 @@
 
 ```python
 kunal = {
-    "location"    : "Pune, India 🇮🇳",
+    "location"    : "Pune, India",
     "focus"       : ["Mobile Dev", "Explainable AI", "Computer Vision", "Cybersecurity"],
     "building"    : ["AI Precision Irrigation System", "Secure QR File Sharing (Spring Boot)"],
-    "researching" : ["XAI pipelines → SHAP, LIME, GradCAM, EigenCAM",
+    "researching" : [
+                     "XAI pipelines -- SHAP, LIME, GradCAM, EigenCAM",
                      "MC Dropout for uncertainty quantification",
-                     "Federated Learning for privacy-preserving medical AI"],
+                     "Federated Learning for privacy-preserving medical AI"
+                    ],
     "hardware"    : "Raspberry Pi for edge-deployed ML models",
-    "interests"   : ["🚴 Cycling", "🏀 Basketball", "🏸 Badminton"],
+    "interests"   : ["Cycling", "Basketball", "Badminton"],
     "motto"       : "Build fast. Explain clearly. Secure everything."
 }
 ```
@@ -146,7 +148,7 @@ kunal = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kunal-2604&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kunal-2604&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
 
 </div>
 
@@ -156,11 +158,16 @@ kunal = {
 
 <div align="center">
 
+> **Setup required:** Run the GitHub Action once to generate the snake SVG.
+> See [setup instructions below](#-snake-setup) or the workflow file in `.github/workflows/snake.yml`
+
+<!-- Once the Action runs, uncomment this block:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal-2604/kunal-2604/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal-2604/kunal-2604/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/kunal-2604/kunal-2604/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kunal-2604/kunal-2604/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+-->
 
 </div>
 
