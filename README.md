@@ -26,21 +26,47 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,dart" />
 </p>
 
+---
+
 ### ⚙️ Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow,unity" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow,pytorch,opencv,unity" />
 </p>
+
+---
+
+### 🧠 AI / ML & Data Science  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+---
 
 ### 🗄️ Databases  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
-### ☁️ Cloud & Tools  
+---
+
+### ☁️ Cloud & Dev Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,github,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=aws,googlecloud,github,git,vscode,postman" />
 </p>
 
+---
+
+### 📱 Mobile & App Development  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
+
+---
+
+### 🧪 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=colab,anaconda,linux" />
+</p>
 ---
 
 ## 🔥 Featured Projects  
