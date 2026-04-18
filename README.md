@@ -33,7 +33,7 @@ Passionate developer at the intersection of **mobile development**, **AI**, and 
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript,typescript" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,reactnative,nodejs,express,spring,fastapi" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,spring,fastapi" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda,raspberrypi" />
