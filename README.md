@@ -46,22 +46,27 @@ Passionate developer at the intersection of **mobile development**, **AI**, and 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NLP-blue?style=flat-square&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=flat-square&logo=deepmind&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GradCAM-orange?style=flat-square&logo=google-colab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SHAP-purple?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LIME-brightgreen?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MobileNet-blueviolet?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minimax%20AI-black?style=flat-square&logo=lichess&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ResNet-red?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EfficientNet-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=python&logoColor=black"/>
+  <b>Algorithms & Specialized Libraries</b>
 </p>
----
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GradCAM-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LIME-22C55E?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MobileNet-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ResNet-DC2626?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EfficientNet-EA580C?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00B4D8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-4A4A4A?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Minimax%20%26%20Alpha--Beta-1A1A2E?style=for-the-badge&logo=lichess&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MC%20Dropout-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EigenCAM-F59E0B?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
 
 ## Featured Projects
 
