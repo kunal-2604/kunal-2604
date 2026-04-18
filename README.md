@@ -19,54 +19,55 @@
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Technical Skills  
 
 ### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,dart" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript" />
 </p>
 
 ---
 
 ### ⚙️ Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow,pytorch,opencv,unity" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,unity,arduino" />
 </p>
 
 ---
 
-### 🧠 AI / ML & Data Science  
+### 🧠 Artificial Intelligence  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🗄️ Databases  
+### 🗄️ Databases & Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres,mongodb,redis,aws" />
 </p>
 
 ---
 
-### ☁️ Cloud & Dev Tools  
+### 🛠️ Development Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,googlecloud,github,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" />
 </p>
 
----
-
-### 📱 Mobile & App Development  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://img.shields.io/badge/Render-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MobileNet-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=for-the-badge"/>
 </p>
 
----
-
-### 🧪 Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=colab,anaconda,linux" />
-</p>
 ---
 
 ## 🔥 Featured Projects  
