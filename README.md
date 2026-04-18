@@ -33,28 +33,34 @@ Passionate developer at the intersection of **mobile development**, **AI**, and 
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript,typescript" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,spring,unity,arduino" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,reactnative,nodejs,express,spring,fastapi" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda,raspberrypi" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres,mongodb,redis,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres,mongodb,redis,aws,docker,gcp" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vercel,postman,vscode,androidstudio" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NLP-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GradCAM-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SHAP-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LIME-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MobileNet-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-blue?style=flat-square&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=flat-square&logo=deepmind&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GradCAM-orange?style=flat-square&logo=google-colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-purple?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LIME-brightgreen?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MobileNet-blueviolet?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-5A5A5A?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Minimax%20AI-black?style=flat-square&logo=lichess&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ResNet-red?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EfficientNet-orange?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=python&logoColor=black"/>
 </p>
-
 ---
 
 ## Featured Projects
